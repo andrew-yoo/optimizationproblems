@@ -107,6 +107,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [74](https://teorth.github.io/optimizationproblems/constants/74a.html) | 10-point multi-point Seshadri constant on $\mathbb{P}^2$ | $\frac{117}{370}$ | $\frac{1}{\sqrt{10}}$ |
 | [75](https://teorth.github.io/optimizationproblems/constants/75a.html) | Metric TSP subtour-LP integrality-gap constant | $\frac{4}{3}$ | $\frac{3}{2} - 2.18 \cdot 10^{-34}$ |
 | [76](https://teorth.github.io/optimizationproblems/constants/76a.html) | Asymptotic line-count constant for smooth degree-$d$ surfaces in $\mathbb{P}^3$ in characteristic $0$ | 3 | 11 |
+| [77](https://teorth.github.io/optimizationproblems/constants/77a.html) | 3D critical Bochner–Riesz exponent | 3 | $\frac{13}{4}$ |
 
 
 ## Recent progress
