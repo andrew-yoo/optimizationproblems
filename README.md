@@ -17,10 +17,10 @@ Bounds for which the level of available verification is currently at minimal lev
 | [1a](https://teorth.github.io/optimizationproblems/constants/1a.html) | Sidon set autocorrelation constant | 1.2802 (1.292*) | 1.502862 |
 | [1b](https://teorth.github.io/optimizationproblems/constants/1b.html) | Erdős minimum overlap constant | 0.379005 | 0.380868 |
 | [2](https://teorth.github.io/optimizationproblems/constants/2a.html) | Crouzeix constant | 2 | $1+\sqrt{2} \approx 2.4142$ |
-| [3a](https://teorth.github.io/optimizationproblems/constants/3a.html) | Gyamarti-Hennecart-Ruzsa sum-difference constant | 1.1740744 | 1.33333 |
+| [3a](https://teorth.github.io/optimizationproblems/constants/3a.html) | Gyarmati-Hennecart-Ruzsa sum-difference constant | 1.1835129324 | 1.33333 |
 | [3b](https://teorth.github.io/optimizationproblems/constants/3b.html) | Kakeya sums-differences constant | >1.77898 | 1.83333 |
 | [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) | 4-slope Kakeya-type sum-difference constant | 1.67473389 | 1.75 |
-| [4a](https://teorth.github.io/optimizationproblems/constants/4a.html) | Cap set constant | 2.2202 | 2.756 |
+| [4a](https://teorth.github.io/optimizationproblems/constants/4a.html) | Cap set constant | 2.2203 | 2.756 |
 | [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) | Furstenberg–Sárközy square-difference constant | 0.733412 | 1 |
 | [5a](https://teorth.github.io/optimizationproblems/constants/5a.html) | Sidon set size constant | 0 | 0.97633 |
 | [5b](https://teorth.github.io/optimizationproblems/constants/5b.html) | Sidon set density inside (4,5) sets | 0.5294 | 0.5714 |
@@ -56,7 +56,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [24](https://teorth.github.io/optimizationproblems/constants/24a.html) | Komlós discrepancy constant | $1+\sqrt{2}$ | $\infty$ |
 | [25](https://teorth.github.io/optimizationproblems/constants/25a.html) | Mahler volume product constant | $\pi$ | 4 |
 | [26a](https://teorth.github.io/optimizationproblems/constants/26a.html) | Bohnenblust--Hille constant on the Boolean cube | $2$ | $\infty$ |
-| [26b](https://teorth.github.io/optimizationproblems/constants/26b.html) |Multilinear Bohnenblust--Hille constant (real) | $2$ | $\infty$ |
+| [26b](https://teorth.github.io/optimizationproblems/constants/26b.html) | Multilinear Bohnenblust--Hille constant (real) | $2$ | $\infty$ |
 | [27a](https://teorth.github.io/optimizationproblems/constants/27a.html) | Chromatic number of the plane | 5 | 7 |
 | [27b](https://teorth.github.io/optimizationproblems/constants/27b.html) | Maximum Chromatic Number of Biplanar Graphs | 9 | 12 |
 | [28](https://teorth.github.io/optimizationproblems/constants/28a.html) | Smallest dimension in which Borsuk’s conjecture fails | 4 | 63 |
@@ -75,7 +75,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [40b](https://teorth.github.io/optimizationproblems/constants/40b.html) | Asymptotic Dobrowolski constant for Lehmer’s problem | $9/4$ | $\infty$ |
 | [41a](https://teorth.github.io/optimizationproblems/constants/41a.html) | Moving sofa constant | 2.2195 | 2.37 (2.2195*)|
 | [41b](https://teorth.github.io/optimizationproblems/constants/41b.html) | Ambidextrous moving sofa constant | 1.64495521 | 2.2195 |
-| [42](https://teorth.github.io/optimizationproblems/constants/42a.html) | Turan's pure power sum constant | 0.5 | 0.69368 |
+| [42](https://teorth.github.io/optimizationproblems/constants/42a.html) | Turan's pure power sum constant | >0.5 | 0.69368 (0.6906538*) |
 | [43](https://teorth.github.io/optimizationproblems/constants/43a.html) | Gilbert-Pollak conjecture (Steiner ratio) | 0.8559 | 0.86602540378 |
 | [44](https://teorth.github.io/optimizationproblems/constants/44a.html) | Maximal number of relevant variables in degree-$d$ Boolean functions | 1.5 | 4.394 |
 | [45](https://teorth.github.io/optimizationproblems/constants/45a.html) | Density of odd integers that are the sum of a prime and a power of two | 0.107648 | 0.490180063290061 |
@@ -83,7 +83,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [47](https://teorth.github.io/optimizationproblems/constants/47a.html) | Centered Hardy-Littlewood maximal constant in dimension $2$ | $\frac{11+\sqrt{61}}{12}\approx 1.5675208$ | 4 |
 | [48](https://teorth.github.io/optimizationproblems/constants/48a.html) | One-dimensional convex sub-Gaussian comparison constant | $\approx 5.33386$ | $\approx 5.33386$ |
 | [49](https://teorth.github.io/optimizationproblems/constants/49a.html) | Erdős–Szemerédi $3$-sunflower-free capacity | >1.551 ($\geq 1.554*$) | $\frac{3}{2^{2/3}} \approx 1.88988$ |
-| [50](https://teorth.github.io/optimizationproblems/constants/50a.html) | Approximation ratio for quantum Max Cut | 0.611 | $<1$ (0.5 for product states) |
+| [50](https://teorth.github.io/optimizationproblems/constants/50a.html) | Approximation ratio for quantum Max Cut | 0.614 | $<1$ (0.5 for product states) |
 | [51](https://teorth.github.io/optimizationproblems/constants/51a.html) | Erdős maximum term problem | 0.5850788 | $\frac{2}{\pi}\approx 0.63662$ |
 | [52](https://teorth.github.io/optimizationproblems/constants/52a.html) | Satisfiability threshold for random 3-SAT | 3.52 | 4.490 |
 | [53](https://teorth.github.io/optimizationproblems/constants/53a.html) | Davenport constant for $C_n^3$ | 3 | 4 |
@@ -94,7 +94,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [57b](https://teorth.github.io/optimizationproblems/constants/57b.html) | Landau's constant | $\frac{1}{2}+10^{-335}$ | $\dfrac{\Gamma(1/3)\Gamma(5/6)}{\Gamma(1/6)}\approx 0.5433$ |
 | [57c](https://teorth.github.io/optimizationproblems/constants/57c.html) | Univalent Bloch constant | 0.5708858 | 1 |
 | [58](https://teorth.github.io/optimizationproblems/constants/58a.html) | Zaremba’s conjecture constant | 5 | $\infty$ |
-| [59](https://teorth.github.io/optimizationproblems/constants/59a.html) | Bohr radius for the bidisc | 0.3006 | 0.3177 |
+| [59](https://teorth.github.io/optimizationproblems/constants/59a.html) | Bohr radius for the bidisc | 0.3006 | 0.3174541 |
 | [60](https://teorth.github.io/optimizationproblems/constants/60a.html) | Favard-length decay exponent | $\frac{1}{6}$ | 1 |
 | [61](https://teorth.github.io/optimizationproblems/constants/61a.html) | Selberg congruence spectral-gap constant | 0 | $\frac{7}{64}$ |
 | [62a](https://teorth.github.io/optimizationproblems/constants/62a.html) | Lindelof (pointwise growth) exponent for the Riemann zeta function | 0 | $\frac{13}{84}$ |
@@ -138,7 +138,7 @@ Bounds for which the level of available verification is currently at minimal lev
 - [10a](https://teorth.github.io/optimizationproblems/constants/10a.html) **improved lower bound:** $C_{10} \geq 1.67696 + 10^{-12}$ by [Chris Jones and Giulio Malavolta](https://arxiv.org/pdf/2603.30039), 31 Mar 2026.
 - [48](https://teorth.github.io/optimizationproblems/constants/48a.html) **solved:** $C_{48} = c_\star^2 \approx 5.33386$ by [Damek Davis and Sam Power](https://arxiv.org/abs/2604.03170), 3 Apr 2026.
 - [1a](https://teorth.github.io/optimizationproblems/constants/1a.html), [1b](https://teorth.github.io/optimizationproblems/constants/1b.html) **improved upper bounds:** $C_{1a} \leq 1.503871$ and $C_{1b} \leq 0.380868$ by [YLTLYSTYLLGDHZSWZSHMELCZX2026](https://arxiv.org/abs/2604.19341), 21 Apr 2026.
-- [3a](https://teorth.github.io/optimizationproblems/constants/3a.html), [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved upper bounds:** $C_{3a} \leq 1.1740744$ and $C_{3c} \leq 1.67473389$ by S. Griego, 13 May 2026.
+- [3a](https://teorth.github.io/optimizationproblems/constants/3a.html), [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bounds:** $C_{3a} \geq 1.1740744$ and $C_{3c} \geq 1.67473389$ by S. Griego, 13 May 2026.
 - [84a](https://teorth.github.io/optimizationproblems/constants/84a.html) **improved lower bound (unverified):** $C_{84a} \geq 1.03583*$ by [E. Naslund](https://mathoverflow.net/q/511514), 25 May 2026.
 - [84b](https://teorth.github.io/optimizationproblems/constants/84b.html) **improved upper bound (unverified):** $C_{84b} \leq 1.999281*$ by [I. Althoefer](https://www.erdosproblems.com/forum/thread/52), 28 May 2026.
 - [1a](https://teorth.github.io/optimizationproblems/constants/1a.html) **improved lower bound (unverified):** $C_{1a} \geq 1.292*$ by [A. Piterbarg, J. Bajaj, D. Vincent](https://github.com/AndreiPiterbarg/sidon-autocorrelation), 3 Jun 2026.
