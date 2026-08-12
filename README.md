@@ -78,7 +78,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [41b](https://teorth.github.io/optimizationproblems/constants/41b.html) | Ambidextrous moving sofa constant | 1.64495521 | 2.2195 |
 | [42](https://teorth.github.io/optimizationproblems/constants/42a.html) | Turan's pure power sum constant | >0.5 | 0.69368 (0.6906538*) |
 | [43](https://teorth.github.io/optimizationproblems/constants/43a.html) | Gilbert-Pollak conjecture (Steiner ratio) | 0.8559 | 0.86602540378 |
-| [44](https://teorth.github.io/optimizationproblems/constants/44a.html) | Maximal number of relevant variables in degree-$d$ Boolean functions | 1.5 | 4.394 |
+| [44](https://teorth.github.io/optimizationproblems/constants/44a.html) | Maximal number of relevant variables in degree - $d$ Boolean functions | 1.5 | 4.394 |
 | [45](https://teorth.github.io/optimizationproblems/constants/45a.html) | Density of odd integers that are the sum of a prime and a power of two | 0.107648 | 0.490180063290061 |
 | [46](https://teorth.github.io/optimizationproblems/constants/46a.html) | Fourier restriction constant for the 2-sphere | 3 |  $\frac{22}{7}\approx 3.142857$  |
 | [47](https://teorth.github.io/optimizationproblems/constants/47a.html) | Centered Hardy-Littlewood maximal constant in dimension $2$ | $\frac{11+\sqrt{61}}{12}\approx 1.5675208$ | 4 |
@@ -113,7 +113,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [73](https://teorth.github.io/optimizationproblems/constants/73a.html) | Flatness constant in dimension 3 | $2+\sqrt{2}$ | $<3.972$ |
 | [74](https://teorth.github.io/optimizationproblems/constants/74a.html) | 10-point multi-point Seshadri constant on $\mathbb{P}^2$ | $\frac{117}{370}$ | $\frac{1}{\sqrt{10}}$ |
 | [75](https://teorth.github.io/optimizationproblems/constants/75a.html) | Metric TSP subtour-LP integrality-gap constant | $\frac{4}{3}$ | $\frac{3}{2} - 2.18 \cdot 10^{-34}$ |
-| [76](https://teorth.github.io/optimizationproblems/constants/76a.html) | Asymptotic line-count constant for smooth degree-$d$ surfaces in $\mathbb{P}^3$ in characteristic $0$ | 3 | 11 |
+| [76](https://teorth.github.io/optimizationproblems/constants/76a.html) | Asymptotic line-count constant for smooth degree - $d$ surfaces in $\mathbb{P}^3$ in characteristic $0$ | 3 | 11 |
 | [77](https://teorth.github.io/optimizationproblems/constants/77a.html) | 3D critical Bochner–Riesz exponent | 3 | $\frac{13}{4}$ |
 | [78](https://teorth.github.io/optimizationproblems/constants/78a.html) | Conway thrackle constant | 1 | 1.393 |
 | [79](https://teorth.github.io/optimizationproblems/constants/79a.html) | Asymptotic essential-dimension ratio of the symmetric groups | $\frac{1}{2}$ | 1 |
